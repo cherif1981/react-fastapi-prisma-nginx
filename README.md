@@ -1,0 +1,1 @@
+# react-fastapi-prisma-nginx
